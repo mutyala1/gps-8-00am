@@ -1,9 +1,12 @@
-
-
-
+<<<<<<< HEAD
+Class Hello#dev2
+  {
+	  Public static void main (String args[])#dev2
+=======
 Class Hello #dev1
   {
 	  Public static void main (String args[])#dev1
+>>>>>>> b16aa8678378d6e2f56df189e43fe407dccbea59
 		   {
 			   System.out.ptintln("Hello world from dev1");
 		    }
